@@ -1,0 +1,24 @@
+{
+  "name": "slackr-bot",
+  "version": "0.0.1",
+  "description": "API for using the slack RTM interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "slack bot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tal/slackr-bot.git"
+  },
+  "author": "Tal Atlas <me@tal.by> (http://tal.by/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-slackr": "0.0.4",
+    "lodash": "^2.4.1",
+    "ws": "^0.6.3"
+  }
+}
