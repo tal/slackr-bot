@@ -19,6 +19,7 @@
   "dependencies": {
     "node-slackr": "0.0.4",
     "lodash": "^2.4.1",
+    "request": "^2.47.0",
     "ws": "^0.6.3"
   }
 }
