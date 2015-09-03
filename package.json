@@ -1,6 +1,6 @@
 {
   "name": "slackr-bot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "API for using the slack RTM interface",
   "main": "index.js",
   "scripts": {
